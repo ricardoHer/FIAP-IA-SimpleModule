@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setup(
-    name='cursoFiap-package',
+    name='fiap-IA-SimpleModule',
     version='1.0.0',
     packages=find_packages(),
     description='Lib pdo Curso FIAP de IA para DEV\'s',
